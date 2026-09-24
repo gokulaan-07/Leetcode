@@ -8,5 +8,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1573-number-of-ways-to-split-a-string](https://github.com/gokulaan-07/Leetcode/tree/master/1573-number-of-ways-to-split-a-string) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/gokulaan-07/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+## String
+|  |
+| ------- |
+| [1573-number-of-ways-to-split-a-string](https://github.com/gokulaan-07/Leetcode/tree/master/1573-number-of-ways-to-split-a-string) |
 <!---LeetCode Topics End-->
