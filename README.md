@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0289-game-of-life](https://github.com/gokulaan-07/Leetcode/tree/master/0289-game-of-life) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/gokulaan-07/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Math
 |  |
@@ -38,4 +39,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/gokulaan-07/Leetcode/tree/master/1096-brace-expansion-ii) |
+## Matrix
+|  |
+| ------- |
+| [0289-game-of-life](https://github.com/gokulaan-07/Leetcode/tree/master/0289-game-of-life) |
+## Simulation
+|  |
+| ------- |
+| [0289-game-of-life](https://github.com/gokulaan-07/Leetcode/tree/master/0289-game-of-life) |
 <!---LeetCode Topics End-->
