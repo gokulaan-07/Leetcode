@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1447-simplified-fractions](https://github.com/gokulaan-07/Leetcode/tree/master/1447-simplified-fractions) |
 | [1573-number-of-ways-to-split-a-string](https://github.com/gokulaan-07/Leetcode/tree/master/1573-number-of-ways-to-split-a-string) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/gokulaan-07/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## String
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/gokulaan-07/Leetcode/tree/master/0290-word-pattern) |
 | [1096-brace-expansion-ii](https://github.com/gokulaan-07/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1446-consecutive-characters](https://github.com/gokulaan-07/Leetcode/tree/master/1446-consecutive-characters) |
+| [1447-simplified-fractions](https://github.com/gokulaan-07/Leetcode/tree/master/1447-simplified-fractions) |
 | [1573-number-of-ways-to-split-a-string](https://github.com/gokulaan-07/Leetcode/tree/master/1573-number-of-ways-to-split-a-string) |
 | [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/gokulaan-07/Leetcode/tree/master/1576-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/gokulaan-07/Leetcode/tree/master/1624-largest-substring-between-two-equal-characters) |
@@ -53,4 +55,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0289-game-of-life](https://github.com/gokulaan-07/Leetcode/tree/master/0289-game-of-life) |
+## Number Theory
+|  |
+| ------- |
+| [1447-simplified-fractions](https://github.com/gokulaan-07/Leetcode/tree/master/1447-simplified-fractions) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1447-simplified-fractions](https://github.com/gokulaan-07/Leetcode/tree/master/1447-simplified-fractions) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1447-simplified-fractions](https://github.com/gokulaan-07/Leetcode/tree/master/1447-simplified-fractions) |
 <!---LeetCode Topics End-->
