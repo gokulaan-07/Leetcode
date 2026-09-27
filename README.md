@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/gokulaan-07/Leetcode/tree/master/1576-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/gokulaan-07/Leetcode/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/gokulaan-07/Leetcode/tree/master/1736-latest-time-by-replacing-hidden-digits) |
+| [1737-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/gokulaan-07/Leetcode/tree/master/1737-change-minimum-characters-to-satisfy-one-of-three-conditions) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/gokulaan-07/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Hash Table
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/gokulaan-07/Leetcode/tree/master/0290-word-pattern) |
 | [1096-brace-expansion-ii](https://github.com/gokulaan-07/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/gokulaan-07/Leetcode/tree/master/1624-largest-substring-between-two-equal-characters) |
+| [1737-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/gokulaan-07/Leetcode/tree/master/1737-change-minimum-characters-to-satisfy-one-of-three-conditions) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/gokulaan-07/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Backtracking
 |  |
@@ -78,4 +80,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/gokulaan-07/Leetcode/tree/master/1736-latest-time-by-replacing-hidden-digits) |
+## Counting
+|  |
+| ------- |
+| [1737-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/gokulaan-07/Leetcode/tree/master/1737-change-minimum-characters-to-satisfy-one-of-three-conditions) |
+## Prefix Sum
+|  |
+| ------- |
+| [1737-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/gokulaan-07/Leetcode/tree/master/1737-change-minimum-characters-to-satisfy-one-of-three-conditions) |
 <!---LeetCode Topics End-->
