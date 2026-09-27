@@ -3,7 +3,7 @@ class Solution {
         int i=0;
         int j=s.length()-1;
         while(i<j){
-            if(s.charAt(i)!=s.charAt(j)) break;// if first layer is not cleared then cant get inside immediately return 
+            if(s.charAt(i)!=s.charAt(j)) break;
 
             if(s.charAt(i)==s.charAt(j)){
 
