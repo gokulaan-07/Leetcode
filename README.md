@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1573-number-of-ways-to-split-a-string](https://github.com/gokulaan-07/Leetcode/tree/master/1573-number-of-ways-to-split-a-string) |
 | [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/gokulaan-07/Leetcode/tree/master/1576-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/gokulaan-07/Leetcode/tree/master/1624-largest-substring-between-two-equal-characters) |
+| [1736-latest-time-by-replacing-hidden-digits](https://github.com/gokulaan-07/Leetcode/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/gokulaan-07/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Hash Table
 |  |
@@ -73,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/gokulaan-07/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [1736-latest-time-by-replacing-hidden-digits](https://github.com/gokulaan-07/Leetcode/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 <!---LeetCode Topics End-->
