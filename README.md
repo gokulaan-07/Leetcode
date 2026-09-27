@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1624-largest-substring-between-two-equal-characters](https://github.com/gokulaan-07/Leetcode/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/gokulaan-07/Leetcode/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [1737-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/gokulaan-07/Leetcode/tree/master/1737-change-minimum-characters-to-satisfy-one-of-three-conditions) |
+| [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/gokulaan-07/Leetcode/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/gokulaan-07/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Hash Table
 |  |
@@ -88,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1737-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/gokulaan-07/Leetcode/tree/master/1737-change-minimum-characters-to-satisfy-one-of-three-conditions) |
+## Two Pointers
+|  |
+| ------- |
+| [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/gokulaan-07/Leetcode/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 <!---LeetCode Topics End-->
