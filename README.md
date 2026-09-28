@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0166-fraction-to-recurring-decimal](https://github.com/gokulaan-07/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [1447-simplified-fractions](https://github.com/gokulaan-07/Leetcode/tree/master/1447-simplified-fractions) |
 | [1573-number-of-ways-to-split-a-string](https://github.com/gokulaan-07/Leetcode/tree/master/1573-number-of-ways-to-split-a-string) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/gokulaan-07/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0165-compare-version-numbers](https://github.com/gokulaan-07/Leetcode/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/gokulaan-07/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0290-word-pattern](https://github.com/gokulaan-07/Leetcode/tree/master/0290-word-pattern) |
 | [1096-brace-expansion-ii](https://github.com/gokulaan-07/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/gokulaan-07/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0166-fraction-to-recurring-decimal](https://github.com/gokulaan-07/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0290-word-pattern](https://github.com/gokulaan-07/Leetcode/tree/master/0290-word-pattern) |
 | [1096-brace-expansion-ii](https://github.com/gokulaan-07/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/gokulaan-07/Leetcode/tree/master/1624-largest-substring-between-two-equal-characters) |
