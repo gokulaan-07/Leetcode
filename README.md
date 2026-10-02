@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0831-masking-personal-information](https://github.com/gokulaan-07/Leetcode/tree/master/0831-masking-personal-information) |
 | [0856-score-of-parentheses](https://github.com/gokulaan-07/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0859-buddy-strings](https://github.com/gokulaan-07/Leetcode/tree/master/0859-buddy-strings) |
+| [0880-decoded-string-at-index](https://github.com/gokulaan-07/Leetcode/tree/master/0880-decoded-string-at-index) |
 | [0917-reverse-only-letters](https://github.com/gokulaan-07/Leetcode/tree/master/0917-reverse-only-letters) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/gokulaan-07/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1096-brace-expansion-ii](https://github.com/gokulaan-07/Leetcode/tree/master/1096-brace-expansion-ii) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/gokulaan-07/Leetcode/tree/master/0020-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/gokulaan-07/Leetcode/tree/master/0856-score-of-parentheses) |
+| [0880-decoded-string-at-index](https://github.com/gokulaan-07/Leetcode/tree/master/0880-decoded-string-at-index) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/gokulaan-07/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1096-brace-expansion-ii](https://github.com/gokulaan-07/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/gokulaan-07/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
