@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/gokulaan-07/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1914-cyclically-rotating-a-grid](https://github.com/gokulaan-07/Leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/gokulaan-07/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/gokulaan-07/Leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/gokulaan-07/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/gokulaan-07/Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3660-jump-game-ix](https://github.com/gokulaan-07/Leetcode/tree/master/3660-jump-game-ix) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/gokulaan-07/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/gokulaan-07/Leetcode/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/gokulaan-07/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/gokulaan-07/Leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3660-jump-game-ix](https://github.com/gokulaan-07/Leetcode/tree/master/3660-jump-game-ix) |
 ## Depth-First Search
 |  |
