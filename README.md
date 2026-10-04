@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/gokulaan-07/Leetcode/tree/master/0419-battleships-in-a-board) |
 | [0820-short-encoding-of-words](https://github.com/gokulaan-07/Leetcode/tree/master/0820-short-encoding-of-words) |
 | [0821-shortest-distance-to-a-character](https://github.com/gokulaan-07/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/gokulaan-07/Leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/gokulaan-07/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1914-cyclically-rotating-a-grid](https://github.com/gokulaan-07/Leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/gokulaan-07/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/gokulaan-07/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1096-brace-expansion-ii](https://github.com/gokulaan-07/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/gokulaan-07/Leetcode/tree/master/1624-largest-substring-between-two-equal-characters) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/gokulaan-07/Leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1737-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/gokulaan-07/Leetcode/tree/master/1737-change-minimum-characters-to-satisfy-one-of-three-conditions) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/gokulaan-07/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/gokulaan-07/Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/gokulaan-07/Leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1737-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/gokulaan-07/Leetcode/tree/master/1737-change-minimum-characters-to-satisfy-one-of-three-conditions) |
 ## Two Pointers
 |  |
