@@ -1,22 +1,28 @@
-public class Solution {
+class Solution {
         public boolean checkValidString(String s) {
-                int leftMin = 0, leftMax = 0;
+                int low = 0, high = 0;
 
                         for (char c : s.toCharArray()) {
                                     if (c == '(') {
-                                                    leftMin++;
-                                                                    leftMax++;
+                                                    low++;
+                                                                    high++;
                                                                                 } else if (c == ')') {
-                                                                                                leftMin--;
-                                                                                                                leftMax--;
-                                                                                                                            } else {
-                                                                                                                                            leftMin--;
-                                                                                                                                                            leftMax++;
+                                                                                                low--;
+                                                                                                                high--;
+                                                                                                                            } else { // '*'
+                                                                                                                                            low--;
+                                                                                                                                                            high++;
                                                                                                                                                                         }
-                                                                                                                                                                                    if (leftMax < 0) return false;
-                                                                                                                                                                                                if (leftMin < 0) leftMin = 0;
-                                                                                                                                                                                                        }
-                                                                                                                                                                                                                
-                                                                                                                                                                                                                        return leftMin == 0;
-                                                                                                                                                                                                                            }
-                                                                                                                                                                                                                            }
+
+                                                                                                                                                                                    if (high < 0) {
+                                                                                                                                                                                                    return false;
+                                                                                                                                                                                                                }
+
+                                                                                                                                                                                                                            if (low < 0) {
+                                                                                                                                                                                                                                            low = 0;
+                                                                                                                                                                                                                                                        }
+                                                                                                                                                                                                                                                                }
+
+                                                                                                                                                                                                                                                                        return low == 0;
+                                                                                                                                                                                                                                                                            }
+                                                                                                                                                                                                                                                                            }
