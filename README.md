@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/gokulaan-07/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0289-game-of-life](https://github.com/gokulaan-07/Leetcode/tree/master/0289-game-of-life) |
 | [0419-battleships-in-a-board](https://github.com/gokulaan-07/Leetcode/tree/master/0419-battleships-in-a-board) |
 | [0820-short-encoding-of-words](https://github.com/gokulaan-07/Leetcode/tree/master/0820-short-encoding-of-words) |
@@ -183,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0820-short-encoding-of-words](https://github.com/gokulaan-07/Leetcode/tree/master/0820-short-encoding-of-words) |
+## Binary Search
+|  |
+| ------- |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/gokulaan-07/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 <!---LeetCode Topics End-->
