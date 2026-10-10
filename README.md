@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/gokulaan-07/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1914-cyclically-rotating-a-grid](https://github.com/gokulaan-07/Leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/gokulaan-07/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/gokulaan-07/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2540-minimum-common-value](https://github.com/gokulaan-07/Leetcode/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/gokulaan-07/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/gokulaan-07/Leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/gokulaan-07/Leetcode/tree/master/1096-brace-expansion-ii) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/gokulaan-07/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2784-check-if-array-is-good](https://github.com/gokulaan-07/Leetcode/tree/master/2784-check-if-array-is-good) |
 ## Matrix
 |  |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/gokulaan-07/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/gokulaan-07/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/gokulaan-07/Leetcode/tree/master/1736-latest-time-by-replacing-hidden-digits) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/gokulaan-07/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Counting
 |  |
 | ------- |
@@ -206,9 +209,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/gokulaan-07/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/gokulaan-07/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2540-minimum-common-value](https://github.com/gokulaan-07/Leetcode/tree/master/2540-minimum-common-value) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/gokulaan-07/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/gokulaan-07/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
