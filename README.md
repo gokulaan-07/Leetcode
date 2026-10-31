@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/gokulaan-07/Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/gokulaan-07/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3660-jump-game-ix](https://github.com/gokulaan-07/Leetcode/tree/master/3660-jump-game-ix) |
+| [3665-twisted-mirror-path-count](https://github.com/gokulaan-07/Leetcode/tree/master/3665-twisted-mirror-path-count) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/gokulaan-07/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/gokulaan-07/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/gokulaan-07/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1914-cyclically-rotating-a-grid](https://github.com/gokulaan-07/Leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/gokulaan-07/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/gokulaan-07/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/gokulaan-07/Leetcode/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/gokulaan-07/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Simulation
 |  |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/gokulaan-07/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/gokulaan-07/Leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3660-jump-game-ix](https://github.com/gokulaan-07/Leetcode/tree/master/3660-jump-game-ix) |
+| [3665-twisted-mirror-path-count](https://github.com/gokulaan-07/Leetcode/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/gokulaan-07/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Depth-First Search
 |  |
