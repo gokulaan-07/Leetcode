@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/gokulaan-07/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0289-game-of-life](https://github.com/gokulaan-07/Leetcode/tree/master/0289-game-of-life) |
 | [0419-battleships-in-a-board](https://github.com/gokulaan-07/Leetcode/tree/master/0419-battleships-in-a-board) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/gokulaan-07/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0820-short-encoding-of-words](https://github.com/gokulaan-07/Leetcode/tree/master/0820-short-encoding-of-words) |
 | [0821-shortest-distance-to-a-character](https://github.com/gokulaan-07/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [1254-number-of-closed-islands](https://github.com/gokulaan-07/Leetcode/tree/master/1254-number-of-closed-islands) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0166-fraction-to-recurring-decimal](https://github.com/gokulaan-07/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/gokulaan-07/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1447-simplified-fractions](https://github.com/gokulaan-07/Leetcode/tree/master/1447-simplified-fractions) |
 | [1573-number-of-ways-to-split-a-string](https://github.com/gokulaan-07/Leetcode/tree/master/1573-number-of-ways-to-split-a-string) |
 | [2409-count-days-spent-together](https://github.com/gokulaan-07/Leetcode/tree/master/2409-count-days-spent-together) |
