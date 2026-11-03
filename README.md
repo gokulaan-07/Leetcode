@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3660-jump-game-ix](https://github.com/gokulaan-07/Leetcode/tree/master/3660-jump-game-ix) |
 | [3665-twisted-mirror-path-count](https://github.com/gokulaan-07/Leetcode/tree/master/3665-twisted-mirror-path-count) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/gokulaan-07/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/gokulaan-07/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/gokulaan-07/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/gokulaan-07/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/gokulaan-07/Leetcode/tree/master/3886-sum-of-sortable-integers) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/gokulaan-07/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/gokulaan-07/Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/gokulaan-07/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/gokulaan-07/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3886-sum-of-sortable-integers](https://github.com/gokulaan-07/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## String
 |  |
