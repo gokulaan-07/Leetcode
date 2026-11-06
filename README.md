@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/gokulaan-07/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2540-minimum-common-value](https://github.com/gokulaan-07/Leetcode/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/gokulaan-07/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2747-count-zero-request-servers](https://github.com/gokulaan-07/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/gokulaan-07/Leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/gokulaan-07/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/gokulaan-07/Leetcode/tree/master/2784-check-if-array-is-good) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/gokulaan-07/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2540-minimum-common-value](https://github.com/gokulaan-07/Leetcode/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/gokulaan-07/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2747-count-zero-request-servers](https://github.com/gokulaan-07/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [2784-check-if-array-is-good](https://github.com/gokulaan-07/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/gokulaan-07/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/gokulaan-07/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/gokulaan-07/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/gokulaan-07/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/gokulaan-07/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2747-count-zero-request-servers](https://github.com/gokulaan-07/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [2784-check-if-array-is-good](https://github.com/gokulaan-07/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/gokulaan-07/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/gokulaan-07/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -323,5 +326,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [2747-count-zero-request-servers](https://github.com/gokulaan-07/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/gokulaan-07/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 <!---LeetCode Topics End-->
