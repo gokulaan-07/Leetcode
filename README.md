@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-short-encoding-of-words](https://github.com/gokulaan-07/Leetcode/tree/master/0820-short-encoding-of-words) |
 | [0821-shortest-distance-to-a-character](https://github.com/gokulaan-07/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [1254-number-of-closed-islands](https://github.com/gokulaan-07/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/gokulaan-07/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1306-jump-game-iii](https://github.com/gokulaan-07/Leetcode/tree/master/1306-jump-game-iii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/gokulaan-07/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/gokulaan-07/Leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/gokulaan-07/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/gokulaan-07/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/gokulaan-07/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/gokulaan-07/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1306-jump-game-iii](https://github.com/gokulaan-07/Leetcode/tree/master/1306-jump-game-iii) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/gokulaan-07/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/gokulaan-07/Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/gokulaan-07/Leetcode/tree/master/0289-game-of-life) |
 | [0419-battleships-in-a-board](https://github.com/gokulaan-07/Leetcode/tree/master/0419-battleships-in-a-board) |
 | [1254-number-of-closed-islands](https://github.com/gokulaan-07/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/gokulaan-07/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1914-cyclically-rotating-a-grid](https://github.com/gokulaan-07/Leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/gokulaan-07/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/gokulaan-07/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0884-uncommon-words-from-two-sentences](https://github.com/gokulaan-07/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
+| [1267-count-servers-that-communicate](https://github.com/gokulaan-07/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1737-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/gokulaan-07/Leetcode/tree/master/1737-change-minimum-characters-to-satisfy-one-of-three-conditions) |
 ## Prefix Sum
 |  |
@@ -258,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0419-battleships-in-a-board](https://github.com/gokulaan-07/Leetcode/tree/master/0419-battleships-in-a-board) |
 | [1254-number-of-closed-islands](https://github.com/gokulaan-07/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/gokulaan-07/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1306-jump-game-iii](https://github.com/gokulaan-07/Leetcode/tree/master/1306-jump-game-iii) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/gokulaan-07/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/gokulaan-07/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -308,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/gokulaan-07/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/gokulaan-07/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/gokulaan-07/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Divide and Conquer
 |  |
