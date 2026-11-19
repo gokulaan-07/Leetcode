@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/gokulaan-07/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/gokulaan-07/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2540-minimum-common-value](https://github.com/gokulaan-07/Leetcode/tree/master/2540-minimum-common-value) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/gokulaan-07/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/gokulaan-07/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2747-count-zero-request-servers](https://github.com/gokulaan-07/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/gokulaan-07/Leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/gokulaan-07/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/gokulaan-07/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/gokulaan-07/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/gokulaan-07/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/gokulaan-07/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [2784-check-if-array-is-good](https://github.com/gokulaan-07/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/gokulaan-07/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/gokulaan-07/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/gokulaan-07/Leetcode/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/gokulaan-07/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/gokulaan-07/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/gokulaan-07/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/gokulaan-07/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/gokulaan-07/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
