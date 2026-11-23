@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/gokulaan-07/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/gokulaan-07/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1306-jump-game-iii](https://github.com/gokulaan-07/Leetcode/tree/master/1306-jump-game-iii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/gokulaan-07/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/gokulaan-07/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/gokulaan-07/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/gokulaan-07/Leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/gokulaan-07/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/gokulaan-07/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/gokulaan-07/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/gokulaan-07/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1447-simplified-fractions](https://github.com/gokulaan-07/Leetcode/tree/master/1447-simplified-fractions) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/gokulaan-07/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1573-number-of-ways-to-split-a-string](https://github.com/gokulaan-07/Leetcode/tree/master/1573-number-of-ways-to-split-a-string) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/gokulaan-07/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/gokulaan-07/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/gokulaan-07/Leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1737-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/gokulaan-07/Leetcode/tree/master/1737-change-minimum-characters-to-satisfy-one-of-three-conditions) |
@@ -389,4 +392,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/gokulaan-07/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/gokulaan-07/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/gokulaan-07/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
