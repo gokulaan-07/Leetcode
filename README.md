@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/gokulaan-07/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/gokulaan-07/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/gokulaan-07/Leetcode/tree/master/3886-sum-of-sortable-integers) |
+| [3934-smallest-unique-subarray](https://github.com/gokulaan-07/Leetcode/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/gokulaan-07/Leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Math
 |  |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/gokulaan-07/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/gokulaan-07/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/gokulaan-07/Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3934-smallest-unique-subarray](https://github.com/gokulaan-07/Leetcode/tree/master/3934-smallest-unique-subarray) |
 ## Backtracking
 |  |
 | ------- |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/gokulaan-07/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/gokulaan-07/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2540-minimum-common-value](https://github.com/gokulaan-07/Leetcode/tree/master/2540-minimum-common-value) |
+| [3934-smallest-unique-subarray](https://github.com/gokulaan-07/Leetcode/tree/master/3934-smallest-unique-subarray) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -405,4 +408,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/gokulaan-07/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/gokulaan-07/Leetcode/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/gokulaan-07/Leetcode/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/gokulaan-07/Leetcode/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
