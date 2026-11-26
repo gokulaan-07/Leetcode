@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/gokulaan-07/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1573-number-of-ways-to-split-a-string](https://github.com/gokulaan-07/Leetcode/tree/master/1573-number-of-ways-to-split-a-string) |
 | [2409-count-days-spent-together](https://github.com/gokulaan-07/Leetcode/tree/master/2409-count-days-spent-together) |
+| [3360-stone-removal-game](https://github.com/gokulaan-07/Leetcode/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/gokulaan-07/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/gokulaan-07/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/gokulaan-07/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/gokulaan-07/Leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1914-cyclically-rotating-a-grid](https://github.com/gokulaan-07/Leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/gokulaan-07/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/gokulaan-07/Leetcode/tree/master/3360-stone-removal-game) |
 ## Number Theory
 |  |
 | ------- |
